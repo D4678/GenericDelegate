@@ -1,0 +1,16 @@
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\bin\Debug\net8.0-windows\AnonymousWindowForm.exe
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\bin\Debug\net8.0-windows\AnonymousWindowForm.deps.json
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\bin\Debug\net8.0-windows\AnonymousWindowForm.runtimeconfig.json
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\bin\Debug\net8.0-windows\AnonymousWindowForm.dll
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\bin\Debug\net8.0-windows\AnonymousWindowForm.pdb
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\obj\Debug\net8.0-windows\AnonymousWindowForm.Form1.resources
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\obj\Debug\net8.0-windows\AnonymousWindowForm.csproj.GenerateResource.cache
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\obj\Debug\net8.0-windows\AnonymousWindowForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\obj\Debug\net8.0-windows\AnonymousWindowForm.AssemblyInfoInputs.cache
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\obj\Debug\net8.0-windows\AnonymousWindowForm.AssemblyInfo.cs
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\obj\Debug\net8.0-windows\AnonymousWindowForm.csproj.CoreCompileInputs.cache
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\obj\Debug\net8.0-windows\AnonymousWindowForm.dll
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\obj\Debug\net8.0-windows\refint\AnonymousWindowForm.dll
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\obj\Debug\net8.0-windows\AnonymousWindowForm.pdb
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\obj\Debug\net8.0-windows\AnonymousWindowForm.genruntimeconfig.cache
+D:\Today_Task\Anonymous Method\AnonymousWindowForm\AnonymousWindowForm\obj\Debug\net8.0-windows\ref\AnonymousWindowForm.dll

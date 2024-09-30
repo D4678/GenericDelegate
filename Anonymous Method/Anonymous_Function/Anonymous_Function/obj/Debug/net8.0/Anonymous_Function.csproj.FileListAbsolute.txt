@@ -1,0 +1,14 @@
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\bin\Debug\net8.0\Anonymous_Function.exe
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\bin\Debug\net8.0\Anonymous_Function.deps.json
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\bin\Debug\net8.0\Anonymous_Function.runtimeconfig.json
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\bin\Debug\net8.0\Anonymous_Function.dll
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\bin\Debug\net8.0\Anonymous_Function.pdb
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\obj\Debug\net8.0\Anonymous_Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\obj\Debug\net8.0\Anonymous_Function.AssemblyInfoInputs.cache
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\obj\Debug\net8.0\Anonymous_Function.AssemblyInfo.cs
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\obj\Debug\net8.0\Anonymous_Function.csproj.CoreCompileInputs.cache
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\obj\Debug\net8.0\Anonymous_Function.dll
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\obj\Debug\net8.0\refint\Anonymous_Function.dll
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\obj\Debug\net8.0\Anonymous_Function.pdb
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\obj\Debug\net8.0\Anonymous_Function.genruntimeconfig.cache
+D:\Today_Task\Anonymous Method\Anonymous_Function\Anonymous_Function\obj\Debug\net8.0\ref\Anonymous_Function.dll

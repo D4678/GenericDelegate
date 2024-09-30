@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4J5yPbHoTnk=",
+  "success": true,
+  "projectFilePath": "D:\\Today_Task\\Example_LINQ_to_SQL\\LinqToSql\\LinqToSql\\LinqToSql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mtranslate.linqtosql\\1.0.5\\mtranslate.linqtosql.1.0.5.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mtranslate.linqtosql.common\\1.0.5\\mtranslate.linqtosql.common.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
